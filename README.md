@@ -5,7 +5,22 @@
 
 - 👨‍💻 All of my projects are available at [prabinbk.com.np](prabinbk.com.np)
 
-- 💬My Skills **Java Script,Sass,HTML5,CSS3,JQuery,Bootstrap-5,TailwindCss**
+# 🛠️ My Toolbox
+
+### Languages & Frameworks
+- **JavaScript** - Crafting dynamic and interactive web experiences.
+- **HTML5** - The backbone of all web content.
+- **CSS3** - Styling the web with creativity and precision.
+
+### Preprocessors & Libraries
+- **Sass** - Writing maintainable and scalable CSS.
+- **jQuery** - Simplifying HTML DOM manipulation.
+
+### CSS Frameworks
+- **Bootstrap 5** - Rapid design and development.
+- **Tailwind CSS** - Utility-first approach to styling.
+
+---
 
 - 📫 How to reach me **prabinbk06@gmail.com**
 
