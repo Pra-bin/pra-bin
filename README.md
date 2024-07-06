@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prabin Bk</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="start">Hi 👋, I'm Prabin Bk</h1>
+<h3 align="start">A passionate frontend developer from Nepal</h3>
 
 - 🌱 I’m currently learning **React Js, Next Js**
 
