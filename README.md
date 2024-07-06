@@ -75,8 +75,9 @@
 ## 📈 My GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pra-bin&show_icons=true&locale=en&layout=compact" alt="pra-bin" style="height: 200px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pra-bin&" alt="pra-bin" style="height: 200px;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pra-bin&" alt="pra-bin" style="height: 200px;"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pra-bin&show_icons=true&locale=en&layout=compact" alt="pra-bin" style="height: 200px;"/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=pra-bin&show_icons=true&locale=en" alt="pra-bin" style="height: 200px;"/>
   
 </div>
