@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Prabin Bk</h1>
 <h3 align="start">A passionate frontend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **React Js, Next Js**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [prabinbk.com.np](prabinbk.com.np)
 
