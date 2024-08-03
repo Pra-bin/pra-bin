@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects will be available at [prabinbk.com.np](http://prabinbk.com.np)  soon
+- 👨‍💻All of my projects will soon be available at [prabinbk.com.np](http://prabinbk.com.np)
 
 ---
 
