@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Prabin Bk</h1>
-<h3 align="start">A passionate frontend developer from Nepal</h3>
+<h3 align="start">A passionate mern stack developer from Nepal</h3>
 
 
 
@@ -85,7 +85,7 @@
 ---
 
 ## 📫 How to Reach Me
-- **Email:** [prabinbk06@gmail.com](mailto:prabinbk06@gmail.com)
+- **Email:** [prabinbk06@gmail.com](mailto:info@prabinbk.com.np)
 
 Feel free to check out my projects to see these skills in action!
 
