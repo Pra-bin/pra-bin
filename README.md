@@ -85,7 +85,7 @@
 ---
 
 ## 📫 How to Reach Me
-- **Email:** [prabinbk06@gmail.com](mailto:info@prabinbk.com.np)
+- **Email:** [info@prabinbk.com.np](mailto:info@prabinbk.com.np)
 
 Feel free to check out my projects to see these skills in action!
 
