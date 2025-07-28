@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻All of my projects will soon be available at [prabinbk.com.np](http://prabinbk.com.np)
+- 👨‍💻All of my projects available at [prabinbk.com.np](http://prabinbk.com.np)
 
 ---
 
