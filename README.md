@@ -13,8 +13,8 @@ building clean and scalable applications.
   **maintainable code** and **user-friendly interfaces**.
 - Open to collaboration and teamwork
 - Reach me at: <br />
-  > email: **[prabinbk06@gmail.com](mailto:prabinbk06@gmail.com)**<br />
-       website: **[prabin.dev](https://prabin.com.np)**<br />
+  > E-mail: **[prabinbk06@gmail.com](mailto:prabinbk06@gmail.com)**<br />
+       Portfolio: **[prabin.dev](https://prabin.com.np)**<br />
        Insta: **[prabin0516](https://www.instagram.com/prabin0516)**
 
 ---
@@ -81,13 +81,7 @@ building clean and scalable applications.
 </p>
 
 </div>
-<hr>
-<h2 align="center" style="padding-bottom: 20px;">⚡ Contribution Graph ⚡</h2>
-<br>
-<div align="start">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pra-bin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true"/>
 
-</div>
 <hr>
 <h2 align="center" style="padding-bottom: 20px;">⚡ Stats ⚡</h2>
 <br>
@@ -98,4 +92,11 @@ building clean and scalable applications.
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=pra-bin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_width=550" alt="readme stats" />
 </div>
 <br>
+<hr>
+<h2 align="center" style="padding-bottom: 20px;">⚡ Contribution Graph ⚡</h2>
+<br>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pra-bin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true"/>
+
+</div>
 <!-- <img src="https://komarev.com/ghpvc/?username=pra-bin&label=Profile%20Views&color=0e75b6&style=flat" /> -->
