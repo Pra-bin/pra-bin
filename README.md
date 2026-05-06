@@ -91,7 +91,7 @@ building clean and scalable applications.
 <hr>
 <h2 align="center" style="padding-bottom: 20px;">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="start">
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pra-bin&theme=react&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CFri%2CSat&card_width=550" alt="GitHub Streak" /></a>
 
