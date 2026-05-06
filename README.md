@@ -87,9 +87,9 @@ building clean and scalable applications.
 <br>
 <div align="start">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pra-bin&theme=react&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CFri%2CSat&card_width=550" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pra-bin&theme=react&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CFri%2CSat&card_width=500" alt="GitHub Streak" /></a>
 
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=pra-bin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_width=550" alt="readme stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=pra-bin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_width=500" alt="readme stats" />
 </div>
 <br>
 <hr>
