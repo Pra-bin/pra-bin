@@ -1,99 +1,101 @@
-<h1 align="start">Hi 👋, I'm Prabin Bk</h1>
-<h3 align="start">A passionate mern stack developer from Nepal</h3>
-
-
-
-- 👨‍💻All of my projects available at [prabinbk.com.np](http://prabinbk.com.np)
+<h1 align="center">Hi, I'm Prabin!</h1>
+<h3 align="center">A Passionate Software Developer</h3>
 
 ---
 
-# 🛠️ My Toolbox
+### About Me
 
-<p align="start" width=100% style="display: flex; justify-content: start; gap: 40px; flex-wrap: wrap;">
- 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 20px;"/>
-  </a>
-  
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 20px;"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 20px;"/>
-  </a>
+I'm a Computer Science student at Tribhuvan University, passionate about
+building clean and scalable applications.
 
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 20px;"/>
-  </a>
+- Currently focusing on **Web & Mobile Full Stack Development**
+- Expanding my skills in **containerization**, with a focus on building
+  **maintainable code** and **user-friendly interfaces**.
+- Open to collaboration and teamwork
+- Reach me at: <br />
+  > email: **[prabinbk06@gmail.com](mailto:prabinbk06@gmail.com)**<br />
+       website: **[prabin.dev](https://prabin.com.np)**<br />
+       Insta: **[prabin0516](https://www.instagram.com/prabin0516)**
 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="margin: 20px;"/>
-  </a>
+---
 
-   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin: 20px;"/>
-  </a>
+### Tech Stack
 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin: 20px;"/>
-  </a>
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin: 20px;"/>
-  </a>
-  
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin: 20px;"/>
-  </a>
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 20px;"/>
-  </a>
-  
-  
- 
- 
+<div align="center">
 
+#### Languages & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
-## 🌟 Languages & Frameworks
-- **JavaScript** - Crafting dynamic and interactive web experiences.
-- **HTML5** - The backbone of all web content.
-- **CSS3** - Styling the web with creativity and precision.
+#### Design & UI/UX
 
-## 📚 Preprocessors & Libraries
-- **Sass** - Writing maintainable and scalable CSS.
-- **jQuery** - Simplifying HTML DOM manipulation.
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+</p>
 
-## 🎨 CSS Frameworks
-- **Bootstrap 5** - Rapid design and development.
-- **Tailwind CSS** - Utility-first approach to styling.
+#### Frontend
 
----
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-## 📈 My GitHub Stats
+#### Backend & APIs
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pra-bin&" alt="pra-bin" style="height: 200px;"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pra-bin&show_icons=true&locale=en&layout=compact" alt="pra-bin" style="height: 200px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=pra-bin&show_icons=true&locale=en" alt="pra-bin" style="height: 200px;"/>
-  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expressjs-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white" />
+</p>
+
+#### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+</p>
+
+#### Tools & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-%85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 </div>
+<hr>
+<h2 align="center" style="padding-bottom: 20px;">⚡ Contribution Graph ⚡</h2>
+<br>
+<div align="start">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pra-bin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true"/>
 
----
+</div>
+<hr>
+<h2 align="center" style="padding-bottom: 20px;">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
 
-## 📫 How to Reach Me
-- **Email:** [info@prabinbk.com.np](mailto:info@prabinbk.com.np)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pra-bin&theme=react&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CFri%2CSat&card_width=550" alt="GitHub Streak" /></a>
 
-Feel free to check out my projects to see these skills in action!
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/prabin0516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@prabin-bk-115260244/" height="30" width="40" /></a>
-<a href="https://instagram.com/prabin0516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@prabin0516" height="30" width="40" /></a>
-<a href="https://fb.com/prabin0516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@prabin0516" height="30" width="40" /></a>
-
-</p>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=pra-bin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_width=550" alt="readme stats" />
+</div>
+<br>
+<!-- <img src="https://komarev.com/ghpvc/?username=pra-bin&label=Profile%20Views&color=0e75b6&style=flat" /> -->
