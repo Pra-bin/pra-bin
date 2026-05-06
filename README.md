@@ -17,9 +17,9 @@ building clean and scalable applications.
        Portfolio: **[prabin.dev](https://prabin.com.np)**<br />
        Insta: **[prabin0516](https://www.instagram.com/prabin0516)**
 
----
-
-### Tech Stack
+<hr>
+<h2 align="center" style="padding-bottom: 20px;">⚡ Tech Stack ⚡</h2>
+<br>
 
 <div align="center">
 
@@ -85,11 +85,11 @@ building clean and scalable applications.
 <hr>
 <h2 align="center" style="padding-bottom: 20px;">⚡ Stats ⚡</h2>
 <br>
-<div align="start">
+<div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pra-bin&theme=react&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CFri%2CSat&card_width=550" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pra-bin&theme=react&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CFri%2CSat&card_width=500" alt="GitHub Streak" /></a>
 
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=pra-bin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_width=550" alt="readme stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=pra-bin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_width=500" alt="readme stats" />
 </div>
 <br>
 <hr>
