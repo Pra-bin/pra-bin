@@ -14,7 +14,7 @@ building clean and scalable applications.
 - Open to collaboration and teamwork
 - Reach me at: <br />
   > E-mail: **[prabinbk06@gmail.com](mailto:prabinbk06@gmail.com)**<br />
-       Portfolio: **[prabin.dev](https://prabin.com.np)**<br />
+       Portfolio: **[prabin.dev](https://prabinbk.com.np)**<br />
        Insta: **[prabin0516](https://www.instagram.com/prabin0516)**
 
 <hr>
