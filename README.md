@@ -89,14 +89,17 @@ building clean and scalable applications.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pra-bin&theme=react&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CFri%2CSat&card_width=500)](https://git.io/streak-stats)
 
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=pra-bin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_width=500" alt="readme stats" />
+[![Prabin's Top Languages](https://github-readme-stats-one-sigma-0nxlv3xb7u.vercel.app/api/top-langs/?username=pra-bin&layout=compact&langs_count=12&theme=react&hide_border=false&bg_color=22272e&title_color=61dafb&text_color=c9d1d9&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img src="https://github-readme-stats-one-sigma-0nxlv3xb7u.vercel.app/api?username=pra-bin&count_private=true&show_icons=true&theme=react&rank_icon=github&card_width=500" alt="readme stats" />
+
 </div>
 <br>
 <hr>
 <h2 align="center" style="padding-bottom: 20px;">⚡ Contribution Graph ⚡</h2>
 <br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pra-bin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pra-bin&theme=react&hide_border=true&bg_color=22272e&color=61dafb&line=61dafb&point=ffffff&area=false"/>
 
 </div>
 <!-- <img src="https://komarev.com/ghpvc/?username=pra-bin&label=Profile%20Views&color=0e75b6&style=flat" /> -->
