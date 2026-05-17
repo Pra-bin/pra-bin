@@ -40,8 +40,8 @@ building clean and scalable applications.
 #### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -56,9 +56,16 @@ building clean and scalable applications.
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Expressjs-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white" />
 </p>
+
+#### ORM & Data Layer
+
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+#### Caching & Messaging
+
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 #### Databases
 
