@@ -94,7 +94,7 @@ building clean and scalable applications.
 <br>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pra-bin&theme=react&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pra-bin&theme=react&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&exclude_days=Sun%2CFri%2CSat)](https://git.io/streak-stats)
 
 [![Prabin's Top Languages](https://github-readme-stats-one-sigma-0nxlv3xb7u.vercel.app/api/top-langs/?username=pra-bin&layout=compact&langs_count=12&theme=react&hide_border=false&bg_color=22272e&title_color=61dafb&text_color=c9d1d9&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
